@@ -39,3 +39,4 @@ unity for pollutants with little seasonal structure.
 ## License
 
 MIT License
+[![DOI](https://zenodo.org/badge/924144145.svg)](https://doi.org/10.5281/zenodo.22828001)
